@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Spyder Editor
-
-This is a tool for transforming pdf to png.
-"""
-
 import fitz
 from os import walk, mkdir, getcwd
 from os import path as Path
